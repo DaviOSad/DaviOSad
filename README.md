@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Davi Oliveira Sad
-- 🌱 I’m currently studying computer science at UFMG in Brasil.
-- 💞️ I’m looking for internship opportunities
-- 📫 How to reach me davioliveirasad@gmail.com
+ https://github-readme-stats.vercel.app/api?username=DaviOSad&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent
 
 
