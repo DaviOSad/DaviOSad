@@ -1,4 +1,4 @@
-  I´m Davi Sad, a Computer Science student at UFMG.
+<p align="center">I´m Davi Sad, a Computer Science student at UFMG.</p>
  
  
  <div align="center">
